@@ -1,3 +1,5 @@
+## P.S sorry, I noticed your request to make 2 separate repositories already after I sent it :(
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
